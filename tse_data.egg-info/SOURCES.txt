@@ -1,0 +1,9 @@
+README.md
+setup.py
+tse_data/__init__.py
+tse_data/results.py
+tse_data.egg-info/PKG-INFO
+tse_data.egg-info/SOURCES.txt
+tse_data.egg-info/dependency_links.txt
+tse_data.egg-info/requires.txt
+tse_data.egg-info/top_level.txt

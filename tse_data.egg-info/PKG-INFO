@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: tse-data
+Version: 0.1
+Summary: Download and clean data on brazilian elections
+Home-page: UNKNOWN
+Author: Helson Gomes de Souza
+Author-email: helson@alu.ufc.br
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Helson-Gomes
+Description: UNKNOWN
+Keywords: elections,tse,data,Brazil
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Python Software Foundation License
